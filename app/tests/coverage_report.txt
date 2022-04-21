@@ -1,0 +1,10 @@
+Name                           Stmts   Miss  Cover   Missing
+------------------------------------------------------------
+app/__init__.py                    9      0   100%
+app/api/__init__.py                3      0   100%
+app/api/numbers.py                15      0   100%
+app/config.py                      6      0   100%
+app/tests/__init__.py              0      0   100%
+app/tests/test_exercise_1.py      51      0   100%
+------------------------------------------------------------
+TOTAL                             84      0   100%
