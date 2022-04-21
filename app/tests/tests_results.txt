@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.9.1, pytest-7.1.1, pluggy-1.0.0
+rootdir: /Volumes/SSD_500GB/AZURE/scurri/scurri_exercise_1
+collected 8 items
+
+app/tests/test_exercise_1.py ........                                    [100%]
+
+============================== 8 passed in 0.38s ===============================
