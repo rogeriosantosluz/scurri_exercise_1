@@ -10,9 +10,15 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 * export set FLASK_APP=app.webapp (PS> $env:FLASK_APP="webapp")
 * python3 -m flask run --host=0.0.0.0 (PS> flask run)
 
-#Tests
+# Tests
 
 * coverage run -m pytest
 * coverage report -m
 
-#Heroku Deploy
+# Heroku Deploy
+
+* heroku login
+* heroku create scurri-exercise-1-app
+* git push heroku master / git push heroku HEAD:master
+* heroku config:set SECRET_KEY=scurri_892840328239048
+* heroku logs --tail
