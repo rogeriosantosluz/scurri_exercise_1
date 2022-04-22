@@ -13,6 +13,9 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 # How to call the app locally
 
 http://localhost:5000/print_numbers
+
+![alt text](https://github.com/rogeriosantosluz/scurri_exercise_1/blob/main/app/tests/print_screen.png?raw=true)
+
 # Tests
 
 * coverage run -m pytest
