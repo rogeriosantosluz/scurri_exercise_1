@@ -10,11 +10,13 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 * export set FLASK_APP=app.webapp (PS> $env:FLASK_APP="webapp")
 * python3 -m flask run --host=0.0.0.0 (PS> flask run)
 
+# How to call the app locally
+
+http://localhost:5000/print_numbers
 # Tests
 
 * coverage run -m pytest
 * coverage report -m
-
 # Heroku Deploy
 
 * heroku login
