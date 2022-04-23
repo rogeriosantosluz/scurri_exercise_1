@@ -22,6 +22,8 @@ http://localhost:5000/print_numbers
 * coverage report -m
 # Heroku Deploy
 
+https://scurri-exercise-1-app.herokuapp.com/print_numbers
+
 * heroku login
 * heroku create scurri-exercise-1-app
 * git push heroku master / git push heroku HEAD:master
